@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/css/main.8555cb62.chunk.css",
+    "main.js": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/main.5a6a1f33.chunk.js",
+    "main.js.map": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/main.5a6a1f33.chunk.js.map",
+    "runtime-main.js": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/runtime-main.8a186ad7.js",
+    "runtime-main.js.map": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/runtime-main.8a186ad7.js.map",
+    "static/js/2.7e5ddad0.chunk.js": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/2.7e5ddad0.chunk.js",
+    "static/js/2.7e5ddad0.chunk.js.map": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/2.7e5ddad0.chunk.js.map",
+    "static/js/3.d9bdb546.chunk.js": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/3.d9bdb546.chunk.js",
+    "static/js/3.d9bdb546.chunk.js.map": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/3.d9bdb546.chunk.js.map",
+    "static/css/4.61b50e66.chunk.css": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/css/4.61b50e66.chunk.css",
+    "static/js/4.32668711.chunk.js": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/4.32668711.chunk.js",
+    "static/js/4.32668711.chunk.js.map": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/4.32668711.chunk.js.map",
+    "static/js/5.8f030193.chunk.js": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/5.8f030193.chunk.js",
+    "static/js/5.8f030193.chunk.js.map": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/5.8f030193.chunk.js.map",
+    "static/js/6.82401b07.chunk.js": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/6.82401b07.chunk.js",
+    "static/js/6.82401b07.chunk.js.map": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/6.82401b07.chunk.js.map",
+    "index.html": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/index.html",
+    "static/css/4.61b50e66.chunk.css.map": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/css/4.61b50e66.chunk.css.map",
+    "static/css/main.8555cb62.chunk.css.map": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/css/main.8555cb62.chunk.css.map",
+    "static/js/2.7e5ddad0.chunk.js.LICENSE.txt": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/2.7e5ddad0.chunk.js.LICENSE.txt",
+    "static/js/3.d9bdb546.chunk.js.LICENSE.txt": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/js/3.d9bdb546.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/etc.clientlibs/pechakucha2-react/clientlibs/clientlib-react/resources/static/media/Sora-VariableFont_wght.e56298ae.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a186ad7.js",
+    "static/js/2.7e5ddad0.chunk.js",
+    "static/css/main.8555cb62.chunk.css",
+    "static/js/main.5a6a1f33.chunk.js"
+  ]
+}
