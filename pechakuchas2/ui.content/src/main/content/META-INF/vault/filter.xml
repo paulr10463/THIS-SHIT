@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/pechakucha2-react" mode="merge"/>
+    <filter root="/content/pechakucha2-react" mode="merge"/>
+    <filter root="/content/dam/pechakucha2-react" mode="merge">
+        <exclude pattern="/content/dam/pechakucha2-react(/.*)?"/>
+        <include pattern="/content/dam/pechakucha2-react/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/pechakucha2-react/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/pechakucha2-react" mode="merge"/>
+</workspaceFilter>
