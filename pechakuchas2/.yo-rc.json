@@ -1,9 +1,0 @@
-{
-  "generator-aem-application": {
-    "promptValues": {
-      "mavenAppsModuleName": "ui.apps",
-      "mavenBundleModuleName": "core",
-      "javaRootPackageName": "com.pechakuchas2.core"
-    }
-  }
-}
