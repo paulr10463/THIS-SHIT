@@ -29,17 +29,6 @@ const ContainerConfig = {
     }
 };
 
-function adjustContentPadding() {
-    const header = document.querySelector('.cmp-header');
-    const content = document.querySelector('.main-content');
-
-    const headerHeight = header.offsetHeight;
-
-    content.style.marginTop = `${headerHeight}px`;
-}
-
-window.addEventListener('load', adjustContentPadding);
-window.addEventListener('resize', adjustContentPadding);
 
 MapTo('pechakuchas2-react/components/container')(withComponentMappingContext(AllowedComponentsContainer), ContainerConfig);
 

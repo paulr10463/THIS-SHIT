@@ -88,6 +88,29 @@ h6 {
   padding: 0px 0px 0px 1.5em;
 }
 
+.cmp-text--annotation-warning{
+  background-color: #f3b8b0;
+  color: #a02e1f;
+  border-radius: 1rem;
+  display: block;
+  padding: 1.5rem;
+}
+
+.cmp-text--annotation-info{
+  background-color: #b3ccf1;
+  color: #00388d;
+  border-radius: 1rem;
+  display: block;
+  padding: 1.3rem;
+}
+
+.cmp-text--annotation-success{
+  background-color: #c2f7bd;
+  color: #064200;
+  border-radius: 1rem;
+  display: block;
+  padding: 1.3rem;
+}
 
 h1 {
   font-size: 48px;

@@ -18,27 +18,31 @@ class HeaderComponent extends Component {
     const { buttonsList, linksList,  fileReference} = this.props;
  
     return (
-      <div className="cmp-header">
-        <img className="cmp-header__img" src={fileReference}></img>
-        <nav className="cmp-header__navbar">
-          <ul className="cmp-header__navbar-list">   
+      <>
+        <div className="cmp-header">
+          <img className="cmp-header__img" src={fileReference}></img>
+          <nav className="cmp-header__navbar">
+            <ul className="cmp-header__navbar-list">
               {linksList && linksList.map((link) => (
                 <li className="cmp-header__navbar-list-item">
                   <a href={link.linkUrl} className="cmp-header__navbar-list-item-link">{link.linkTitle}</a>
                 </li>
               ))}
-          </ul>
-        </nav>
-        <nav className="cmp-header__buttons">
-          <ul className="cmp-header__buttons-list">   
+            </ul>
+          </nav>
+          <nav className="cmp-header__buttons">
+            <ul className="cmp-header__buttons-list">
               {buttonsList && buttonsList.map((link) => (
                 <li className="cmp-header__buttons-list-item">
                   <button href={link.linkUrl} className="cmp-header__buttons-list-item-link">{link.linkTitle}</button>
                 </li>
               ))}
-          </ul>
-        </nav>
-      </div>
+            </ul>
+          </nav>
+        </div>
+        <div className="cmp-header-2">
+        </div>
+      </>
     );
   }
 }

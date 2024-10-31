@@ -22,7 +22,7 @@ import './HeaderComponent/HeaderComponent';
 import './MultipleCardsComponent/MultipleCardsComponent'
 import './ConsoleComponent/ConsoleComponent';
 import './CustomnavComponent/CustomnavComponent';
-
+import './QuestionComponent/QuestionComponent'
 import {MapTo} from '@adobe/aem-react-editable-components';
 
 import {
