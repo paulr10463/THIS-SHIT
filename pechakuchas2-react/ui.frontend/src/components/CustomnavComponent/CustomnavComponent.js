@@ -15,14 +15,14 @@ class CustomnavComponent extends Component {
   }
  
   render() {
-    const {  linksList,  fileReference} = this.props;
+    const {  navList,  fileReference} = this.props;
  
     return (
       <div className="cmp-custommav">
         <img className="cmp-customnav__img" src={fileReference}></img>
         <nav className="cmp-customnav__navbar">
           <ul className="cmp-customnav__navbar-list">   
-              {linksList && linksList.map((link) => (
+              {navList && navList.map((link) => (
                 <li className="cmp-customnav__navbar-list-item">
                   <a href={link.linkUrl} className="cmp-customnav__navbar-list-item-link">{link.linkTitle}</a>
                 </li>

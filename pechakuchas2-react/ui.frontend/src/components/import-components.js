@@ -21,7 +21,7 @@ import './ExperienceFragment/ExperienceFragment';
 import './HeaderComponent/HeaderComponent';
 import './MultipleCardsComponent/MultipleCardsComponent'
 import './ConsoleComponent/ConsoleComponent';
-import './CustomnavComponent/Customnav2Component';
+import './CustomnavComponent/CustomnavComponent';
 
 import {MapTo} from '@adobe/aem-react-editable-components';
 
